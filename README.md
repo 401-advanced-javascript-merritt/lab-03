@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-03.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-03)
+
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
